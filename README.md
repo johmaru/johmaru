@@ -11,7 +11,7 @@
 ___
 ## Java
 ### Minecraft MOD
-* [MineStories_1.20.1](https://github.com/johmaru/MineStories_1.20.1) NPC追加MOD
+* [MineStories](https://github.com/johmaru/MineStories_1.20.1) NPC追加MOD
 ___
 ## Python
 ### AI
