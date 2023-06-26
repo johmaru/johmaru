@@ -1,7 +1,7 @@
 ## HIHI! I'm Johmaru _(┐「ε:)_
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johmaru)](https://github.com/anuraghazra/github-readme-stats)
 <img
-  src="https://github.com/avinal/avinal/blob/main/images/stat.svg"
+  src="https://github.com/johmaru/johmaru/blob/master/images/stat.svg"
   alt="Johmaru WakaTime Activity"
 />
 
