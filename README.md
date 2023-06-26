@@ -1,7 +1,9 @@
 ## HIHI! I'm Johmaru _(┐「ε:)_
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johmaru)](https://github.com/anuraghazra/github-readme-stats)
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<img
+  src="https://github.com/avinal/avinal/blob/main/images/stat.svg"
+  alt="Johmaru WakaTime Activity"
+/>
 
 # My Repo
 ## C# 
