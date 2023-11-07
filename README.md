@@ -10,7 +10,7 @@
 ### WPF
 * [Yu Launcher](https://github.com/johmaru/Yu_Launcher) 汎用ランチャー
 * [Discord.NET_V3_Example](https://github.com/johmaru/Discord.NET_V3_Example) Discord BOT Example
-* [EveryThing_AssistAI_V2](https://github.com/johmaru/EveryThing_AssistAI) コンソールAI対話ソフト
+* [EveryThing_AssistAI_V2]() コンソールAI対話ソフト * now private
 ___
 ## Java
 ### Minecraft MOD
