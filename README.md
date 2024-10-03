@@ -12,6 +12,10 @@
 * [Discord.NET_V3_Example](https://github.com/johmaru/Discord.NET_V3_Example) Discord BOT Example
 * [EveryThing_AssistAI_V2]() コンソールAI対話ソフト * now private
 ___
+## Zig
+### GUI
+* [Oparadisi](https://github.com/johmaru/Oparadisi) オタクのためのアプリ
+___
 ## Java
 ### Minecraft MOD
 * [MineStories](https://github.com/johmaru/MineStories_1.20.1) NPC追加MOD
