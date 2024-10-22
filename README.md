@@ -1,4 +1,4 @@
-## HIHI! I'm Johmaru _(┐「ε:)_
+## HIHI! I'm Johmaru ┐(┐「ε:)「
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johmaru)](https://github.com/anuraghazra/github-readme-stats)
 <img
   src="https://github.com/johmaru/johmaru/blob/master/images/stat.svg"
