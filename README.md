@@ -15,6 +15,8 @@ ___
 ## Zig
 ### GUI
 * [Oparadisi](https://github.com/johmaru/Oparadisi) オタクのためのアプリ
+* [JZlog](https://github.com/johmaru/JZlog) 簡易Loggerライブラリ
+* [Sound Collector Zig](https://github.com/johmaru/sound_collector_zig) 音声ファイル解析遊び場
 ___
 ## Java
 ### Minecraft MOD
