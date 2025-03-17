@@ -7,6 +7,8 @@
 
 # My Repo
 ## C# 
+### Programming Language
+* [Mikazuki](https://github.com/johmaru/Mikazuki) 現在制作中、静的コンパイル型日本語言語
 ### WPF
 * [Yu Launcher](https://github.com/johmaru/Yu_Launcher) 汎用ランチャー
 * [Discord.NET_V3_Example](https://github.com/johmaru/Discord.NET_V3_Example) Discord BOT Example
