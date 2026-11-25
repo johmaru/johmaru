@@ -5,8 +5,6 @@
   alt="Johmaru WakaTime Activity"
 />
 
-# Hi, I'm johmaru (Joh Matsumaru)
-
 Systems & AI engineer based in Yokohama, Japan.  
 Focused on **compiler construction, low-level memory/runtime systems, embedded software, and LLM post-training / local inference**.
 
